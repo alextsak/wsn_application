@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- first version using hand generated XML -->
+<virtual-config keep-addresses="true" run-midlets="false">
+  <gridview x="4031.022026206955" y="1913.3391802820188" zoom="0.1337436850349057"/>
+  <virtual-spot address="c0a8.0102.0000.100f" name="Sink">
+    <position x="-509.3604249352843" y="-1345.088051414403"/>
+  </virtual-spot>
+  <virtual-spot address="c0a8.0102.0000.1010" name="Spot1">
+    <position x="-2647.7791467265747" y="-88.95397707546317"/>
+  </virtual-spot>
+  <virtual-spot address="c0a8.0102.0000.1011" name="Spot2">
+    <position x="1569.242388554152" y="-81.47698853773136"/>
+  </virtual-spot>
+</virtual-config>
